@@ -7,6 +7,8 @@ O projeto foi desenvolvido durante o curso de Desenvolvedor feita na Udemy, orga
 
 A aplicação tem como o intuito servir de "Web Site Principal" do Orlando Soccer Club, Durante o projeto utilizamos diversas ferramentas e diferentes api, para o melhor andamento do código. 
 
+Site Do Projeto (https://projeto-orlando.netlify.app)
+
 ## Layout Mobile
 ![Mob 1](https://github.com/AlmasBrightSky/Assets/blob/Main/Assets/Orlando%20City%20Menu.mobile.fw.png)
 
